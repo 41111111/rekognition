@@ -1,8 +1,4 @@
-#flask
-#boto3
-#gunicorn
 flask
-pytesseract
-pillow
-opencv-python
+boto3
 gunicorn
+
